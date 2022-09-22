@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flashcard App</string>
+    <string name="what_is_the_largest_city_in_the_united_states">What is the largest city in the United States?</string>
+    <string name="new_york_city">New York City</string>
+</resources>
