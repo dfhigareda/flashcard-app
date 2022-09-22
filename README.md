@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` User can easily click on the question presented on the screen to show the answer. But, before doing so, answering in your head or to yourself is preferred, since it is how the app works!
+User can easily click on the question presented on the screen to show the answer. But, before doing so, answering in your head or to yourself is preferred, since it is how the app works!
 
 ### App Walk-though
 
