@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<img src="![Lab1](https://user-images.githubusercontent.com/111629844/191869888-559b6460-124d-49a9-a8e1-041c66c0db51.gif)" width=200><br>
+<img src="file:///Users/daritah/Documents/Lab1.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
