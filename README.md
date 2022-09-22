@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<img src="file:///Users/daritah/Documents/Lab1.gif" width=200><br>
+<img src="https://raw.githubusercontent.com/dfhigareda/flashcard-app/489e983ff4cf4c38fa8fe9a063f4c6ab8048c000/Lab1.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
